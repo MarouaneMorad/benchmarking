@@ -18,8 +18,8 @@ The project includes:
 - Scripts and SQL to populate the DB (`schema.sql`, `populate.sql`).
 
 This README gives a concise quickstart and includes three example captures as
-requested: `capute`, `caputre1` and `caputre2` (placeholders are provided; add
-your screenshots into `docs/` with the same names to make them render).
+requested: `image-1`, `image-2` and `Capture2` (placeholders are provided; add
+your screenshots into `/` with the same names to make them render).
 
 ## Quickstart (minimal)
 
